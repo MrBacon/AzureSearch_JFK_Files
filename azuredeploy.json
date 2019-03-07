@@ -4,7 +4,7 @@
     "parameters": {
         "resourcePrefix": {
             "type": "string",
-            "defaultValue": "jfk",
+            "defaultValue": "tf",
             "metadata": {
                 "description": "Prefix for all resources created by this template"
             }
@@ -89,7 +89,7 @@
         },
         "repoURL": {
             "type": "string",
-            "defaultValue": "https://github.com/Microsoft/AzureSearch_JFK_Files",
+            "defaultValue": "https://github.com/MrBacon/AzureSearch_JFK_Files",
             "metadata": {
                 "description": "The URL for the GitHub repository that contains the project to deploy."
             }
